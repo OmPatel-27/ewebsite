@@ -1,0 +1,233 @@
+body
+	{
+		margin: 0;
+		padding: 0;
+		font-family: sans-serif;
+        background-color: aqua;
+    }
+    .h1
+    {
+        text-align: center;
+        color: #bd196b;
+    }
+.login-box
+{
+    position: absolute;
+    top: 60%;
+    left: 15%;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgb(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 17px 35px rgba(0,0,0,.6);
+    border-radius: 10px;
+}
+.login-box h2{
+    color: #fff;
+}
+.login-box label
+{
+    margin: 0 0 10px;
+	padding: 0;
+	color: #fff;
+	text-align: left;
+}
+.login-box input
+	{
+		width: 150px;
+		padding: 10px 0;
+		font-size: 16px;
+		color: #fff;
+		margin-bottom: 30px;
+		border: none;
+		border-bottom: 1px solid #fff;
+		outline: none;
+		background: transparent;
+	}
+    .login-box form a
+	{
+		position: relative;
+		display: inline-block;
+		padding: 10px 100px;
+		color: #03e9f4;
+		font-size: 16px;
+		text-decoration: none;
+		text-transform: uppercase;
+		overflow: hidden;
+		transition: .5s;
+		margin-top: 40px;
+		letter-spacing: 4px;
+		height: 20px;
+		width: 49px;
+	}
+    .login-box a:hover
+	{
+		background: #03e9f4;
+		color: #fff;
+		border-radius: 5px;
+		box-shadow: 0 0 10px #03e9f4,
+		0 0 25px #03e9f4,
+		0 0 50px #03e9f4,
+		0 0 100px #03e9f4;
+		height: 20px;
+		width: 49px;
+	}
+	
+
+
+
+
+
+
+
+    .login-box1
+{
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgb(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+}
+.login-box1 h2{
+    color: #fff;
+}
+.login-box1 label
+{
+    margin: 0 0 30px;
+	padding: 0;
+	color: #fff;
+	text-align: left;
+}
+.login-box1 input
+	{
+		width: 150px;
+		padding: 10px 0;
+		font-size: 16px;
+		color: #fff;
+		margin-bottom: 30px;
+		border: none;
+		border-bottom: 1px solid #fff;
+		outline: none;
+		background: transparent;
+	}
+    .login-box1 form a
+	{
+		position: relative;
+		display: inline-block;
+		padding: 10px 100px;
+		color: #03e9f4;
+		font-size: 16px;
+		text-decoration: none;
+		text-transform: uppercase;
+		overflow: hidden;
+		transition: .5s;
+		margin-top: 40px;
+		letter-spacing: 4px;
+		height: 20px;
+		width: 50px;
+	}
+    .login-box1 a:hover
+	{
+		background: #03e9f4;
+		color: #fff;
+		border-radius: 5px;
+		box-shadow: 0 0 10px #03e9f4,
+		0 0 25px #03e9f4,
+		0 0 50px #03e9f4,
+		0 0 100px #03e9f4;
+		height: 20px;
+		width: 49px;
+	}
+	
+
+
+
+
+
+.login-box2
+{
+    position: absolute;
+    top: 60%;
+    left: 65%;
+    width: 350px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgb(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+}
+.login-box2 h2{
+    color: #fff;
+}
+
+
+
+
+
+.login-box3
+{
+    position: absolute;
+    top: 60%;
+    left: 88%;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgb(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 17px 35px rgba(0,0,0,.6);
+    border-radius: 10px;
+}
+.login-box3 h2{
+    color: #fff;
+}
+.login-box3 label
+{
+    margin: 0 0 30px;
+	padding: 0;
+	color: #fff;
+	text-align: left;
+}
+.login-box3 input
+	{
+		width: 150px;
+		padding: 10px 0;
+		font-size: 16px;
+		color: #fff;
+		margin-bottom: 30px;
+		border: none;
+		border-bottom: 1px solid #fff;
+		outline: none;
+		background: transparent;
+	}
+    .login-box3 form a
+	{
+		position: relative;
+		display: inline-block;
+		padding: 10px 100px;
+		color: #03e9f4;
+		font-size: 16px;
+		text-decoration: none;
+		text-transform: uppercase;
+		overflow: hidden;
+		transition: .5s;
+		margin-top: 40px;
+		letter-spacing: 4px;
+		height: 20px;
+		width: 49px;
+	}
+    .login-box3 a:hover
+	{
+		background: #03e9f4;
+		color: #fff;
+		border-radius: 5px;
+		box-shadow: 0 0 10px #03e9f4,
+		0 0 25px #03e9f4,
+		0 0 50px #03e9f4,
+		0 0 100px #03e9f4;
+		height: 20px;
+		width: 49px;
+	}
